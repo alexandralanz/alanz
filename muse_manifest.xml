@@ -1,0 +1,546 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alanz.me" resolutions="1x" timestamp="1536071298308">
+  <folder name="css">
+    <file name="site_global.css" crc="234495993"/>
+    <file name="master_a-master.css" crc="363845167" ref="contact:portfolio:index:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="204834084" ref="contact:portfolio:index:about"/>
+    <file name="contact.css" crc="4027071197" ref="contact"/>
+    <file name="nomq_contact.css" crc="55449303" ref="contact"/>
+    <file name="portfolio.css" crc="4052068066" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4012691806" ref="portfolio"/>
+    <file name="index.css" crc="3917459083" ref="index"/>
+    <file name="nomq_index.css" crc="503410205" ref="index"/>
+    <file name="about.css" crc="3950480550" ref="about"/>
+    <file name="nomq_about.css" crc="369483326" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio"/>
+    <file name="museutils.js" crc="4216313831" ref="index:about:contact:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:about:contact:portfolio"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:about:contact:portfolio"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:about:contact:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:portfolio"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:about:contact:portfolio"/>
+    <file name="require.js" crc="3951022091" ref="index:about:contact:portfolio"/>
+    <file name="webpro.js" crc="4143865194" ref="contact:portfolio"/>
+    <file name="form_check.php" crc="154010282" ref="contact"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact"/>
+    <file name="form_process.php" crc="512629711" ref="contact"/>
+    <file name="form-u1967.php" crc="174941595" ref="contact"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4200445185" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-349982x233.svg" crc="472018956" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 349982x233_poster_.png" crc="4106869023" ref="index"/>
+    <file name="pasted-svg-256x256.svg" crc="414496941" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 256x256_poster_.png" crc="4134346672" ref="index"/>
+    <file name="pasted-svg-256x2562.svg" crc="61851811" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 256x256_poster_2.png" crc="298644294" ref="index"/>
+    <file name="pasted-svg-256x2563.svg" crc="4197043217" seo="true" ref="index:about:contact:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 256x256_poster_3.png" crc="3776487676" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio"/>
+    <file name="jhgz9320-crop-u468.jpg" crc="244209445" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4682.jpg" crc="3920436868" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4683.jpg" crc="3929710826" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4684.jpg" crc="267512120" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4685.jpg" crc="31519048" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4686.jpg" crc="100449232" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4687.jpg" crc="267916604" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jhgz9320-crop-u4688.jpg" crc="242301040" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy.jpg" crc="3856283844" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster .jpg" crc="502283955" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet.jpg" crc="3976660680" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size.jpg" crc="3934922792" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy.jpg" crc="254423505" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale.jpg" crc="4057863554" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u1398.jpg" crc="4007272837" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo.jpg" crc="4230938660" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="4147427469" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="4003498286" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3.jpg" crc="4031221985" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4.jpg" crc="33106419" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy-crop-u1205.jpg" crc="119866242" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster -crop-u1752.jpg" crc="368424783" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u1726.jpg" crc="3890078251" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size60x47.jpg" crc="99889752" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy69x45.jpg" crc="4001910111" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale-crop-u1536.jpg" crc="494848492" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u1406.jpg" crc="188407464" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo72x45.jpg" crc="491238723" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-160x47.jpg" crc="483110824" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image2-crop-u1458.jpg" crc="4005150051" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3-crop-u1484.jpg" crc="4162688922" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4-crop-u1510.jpg" crc="3903121880" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="billboardsummersweet615x213.jpg" crc="3779664666" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u1346.jpg" crc="340776910" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy-crop-u1554.jpg" crc="271610726" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2633x633.jpg" crc="4135237015" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u1372.jpg" crc="4056711040" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u1580.jpg" crc="4071967814" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy-crop-u12052.jpg" crc="119866242" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster -crop-u17522.jpg" crc="368424783" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u17262.jpg" crc="3890078251" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale-crop-u15362.jpg" crc="494848492" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u14062.jpg" crc="188407464" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image2-crop-u14582.jpg" crc="4005150051" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3-crop-u14842.jpg" crc="4162688922" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4-crop-u15102.jpg" crc="3903121880" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy396x512.jpg" crc="4004403752" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u1717.jpg" crc="49883099" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u13462.jpg" crc="4260571765" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy-crop-u15542.jpg" crc="4183476248" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u13982.jpg" crc="4168172145" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u13722.jpg" crc="408678698" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u15802.jpg" crc="222059954" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3404x568.jpg" crc="205015108" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4426x568.jpg" crc="460711082" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy-crop-u12053.jpg" crc="119866242" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster -crop-u17523.jpg" crc="368424783" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u17263.jpg" crc="3890078251" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale-crop-u15363.jpg" crc="494848492" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u14063.jpg" crc="188407464" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image2-crop-u14583.jpg" crc="4005150051" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3-crop-u14843.jpg" crc="4162688922" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4-crop-u15103.jpg" crc="3903121880" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u17172.jpg" crc="49883099" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u13463.jpg" crc="4260571765" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy-crop-u15543.jpg" crc="4183476248" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u13983.jpg" crc="4168172145" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u13723.jpg" crc="408678698" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u15803.jpg" crc="222059954" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy-crop-u12054.jpg" crc="119866242" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster -crop-u17524.jpg" crc="368424783" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u17264.jpg" crc="3890078251" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale-crop-u15364.jpg" crc="494848492" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u14064.jpg" crc="188407464" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image2-crop-u14584.jpg" crc="4005150051" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3-crop-u14844.jpg" crc="4162688922" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4-crop-u15104.jpg" crc="3903121880" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy223x289.jpg" crc="4138848620" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster 175x271.jpg" crc="199015848" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet268x93.jpg" crc="173053739" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u13464.jpg" crc="209755051" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy229x150.jpg" crc="517375770" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale223x290.jpg" crc="4001089240" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2275x275.jpg" crc="4016428503" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u13724.jpg" crc="4140657262" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u15804.jpg" crc="399603440" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image2223x298.jpg" crc="4152336362" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image3223x314.jpg" crc="3877678983" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image4223x298.jpg" crc="4270060904" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy-crop-u12055.jpg" crc="3846996349" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="summer sweet poster 32x49.jpg" crc="4092571962" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u17265.jpg" crc="478259741" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u1354.jpg" crc="166238240" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy-crop-u1562.jpg" crc="3965307476" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale-crop-u15365.jpg" crc="174178453" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u14065.jpg" crc="4088671832" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u1380.jpg" crc="4141466838" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u1588.jpg" crc="242393613" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image237x49.jpg" crc="3884582016" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image335x49.jpg" crc="4069247644" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image437x49.jpg" crc="275207522" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u13465.jpg" crc="209755051" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u13725.jpg" crc="4140657262" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u15805.jpg" crc="399603440" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="art exhibition2 copy copy-crop-u12056.jpg" crc="3846996349" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboardsummersweet-crop-u17266.jpg" crc="478259741" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="billboard mockup real size-crop-u13542.jpg" crc="166238240" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine spread final copy copy-crop-u15622.jpg" crc="3965307476" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine cover grayscale-crop-u15366.jpg" crc="174178453" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dorycolortheory2-crop-u14066.jpg" crc="4088671832" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="colortheoryuptypo-crop-u13802.jpg" crc="4141466838" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u15882.jpg" crc="242393613" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="261368061" seo="true" mt="1536070883950" redirect="true"/>
+  <file name="about.html" crc="4255823863" seo="true" mt="1536070758978" redirect="true"/>
+  <file name="contact.html" crc="4151656461" seo="true" mt="1536070758978" redirect="true"/>
+  <file name="portfolio.html" crc="3969935537" seo="true" mt="1536070758978" redirect="true"/>
+</manifest>

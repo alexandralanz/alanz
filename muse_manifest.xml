@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alanz.me" resolutions="1x" timestamp="1536071298308">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alanz.me" resolutions="1x" timestamp="1536676580019">
   <folder name="css">
-    <file name="site_global.css" crc="234495993"/>
-    <file name="master_a-master.css" crc="363845167" ref="contact:portfolio:index:about"/>
-    <file name="nomq_preview_master_a-master.css" crc="204834084" ref="contact:portfolio:index:about"/>
-    <file name="contact.css" crc="4027071197" ref="contact"/>
-    <file name="nomq_contact.css" crc="55449303" ref="contact"/>
-    <file name="portfolio.css" crc="4052068066" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4012691806" ref="portfolio"/>
-    <file name="index.css" crc="3917459083" ref="index"/>
-    <file name="nomq_index.css" crc="503410205" ref="index"/>
-    <file name="about.css" crc="3950480550" ref="about"/>
-    <file name="nomq_about.css" crc="369483326" ref="about"/>
+    <file name="site_global.css" crc="3895315048"/>
+    <file name="master_a-master.css" crc="429356027" ref="portfolio:index:about:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="204834084" ref="portfolio:index:about:contact"/>
+    <file name="portfolio.css" crc="3972183071" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="424969349" ref="portfolio"/>
+    <file name="index.css" crc="3878931537" ref="index"/>
+    <file name="nomq_index.css" crc="4267758003" ref="index"/>
+    <file name="about.css" crc="4101934741" ref="about"/>
+    <file name="nomq_about.css" crc="4118700561" ref="about"/>
+    <file name="contact.css" crc="4166976012" ref="contact"/>
+    <file name="nomq_contact.css" crc="4113974028" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio"/>
@@ -41,14 +41,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -62,6 +54,14 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 349982x233_poster_.png" crc="4106869023" ref="index"/>
     <file name="pasted-svg-256x256.svg" crc="414496941" seo="true" ref="index:about:contact:portfolio">
@@ -73,14 +73,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -94,6 +86,14 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 256x256_poster_.png" crc="4134346672" ref="index"/>
     <file name="pasted-svg-256x2562.svg" crc="61851811" seo="true" ref="index:about:contact:portfolio">
@@ -105,14 +105,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -126,6 +118,14 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 256x256_poster_2.png" crc="298644294" ref="index"/>
     <file name="pasted-svg-256x2563.svg" crc="4197043217" seo="true" ref="index:about:contact:portfolio">
@@ -137,14 +137,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -158,6 +150,14 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 256x256_poster_3.png" crc="3776487676" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio"/>
@@ -195,7 +195,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet.jpg" crc="3976660680" seo="true" ref="portfolio">
+    <file name="billboardsummersweet.jpg" crc="4224815966" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size.jpg" crc="3934922792" seo="true" ref="portfolio">
@@ -239,7 +239,7 @@
     <file name="summer sweet poster -crop-u1752.jpg" crc="368424783" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u1726.jpg" crc="3890078251" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u1726.jpg" crc="4128528697" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size60x47.jpg" crc="99889752" seo="true" ref="portfolio">
@@ -282,7 +282,7 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
-    <file name="billboardsummersweet615x213.jpg" crc="3779664666" seo="true" ref="portfolio">
+    <file name="billboardsummersweet615x213.jpg" crc="259190842" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size-crop-u1346.jpg" crc="340776910" seo="true" ref="portfolio">
@@ -306,7 +306,7 @@
     <file name="summer sweet poster -crop-u17522.jpg" crc="368424783" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u17262.jpg" crc="3890078251" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u17262.jpg" crc="4128528697" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="magazine cover grayscale-crop-u15362.jpg" crc="494848492" seo="true" ref="portfolio">
@@ -328,7 +328,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u1717.jpg" crc="49883099" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u1717.jpg" crc="4172089881" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size-crop-u13462.jpg" crc="4260571765" seo="true" ref="portfolio">
@@ -360,7 +360,7 @@
     <file name="summer sweet poster -crop-u17523.jpg" crc="368424783" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u17263.jpg" crc="3890078251" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u17263.jpg" crc="4128528697" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="magazine cover grayscale-crop-u15363.jpg" crc="494848492" seo="true" ref="portfolio">
@@ -378,7 +378,7 @@
     <file name="image4-crop-u15103.jpg" crc="3903121880" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u17172.jpg" crc="49883099" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u17172.jpg" crc="4172089881" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size-crop-u13463.jpg" crc="4260571765" seo="true" ref="portfolio">
@@ -402,7 +402,7 @@
     <file name="summer sweet poster -crop-u17524.jpg" crc="368424783" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u17264.jpg" crc="3890078251" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u17264.jpg" crc="4128528697" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="magazine cover grayscale-crop-u15364.jpg" crc="494848492" seo="true" ref="portfolio">
@@ -428,7 +428,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet268x93.jpg" crc="173053739" seo="true" ref="portfolio">
+    <file name="billboardsummersweet268x93.jpg" crc="4012665979" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -472,7 +472,7 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u17265.jpg" crc="478259741" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u17265.jpg" crc="4285037097" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size-crop-u1354.jpg" crc="166238240" seo="true" ref="portfolio">
@@ -517,7 +517,7 @@
     <file name="art exhibition2 copy copy-crop-u12056.jpg" crc="3846996349" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="billboardsummersweet-crop-u17266.jpg" crc="478259741" seo="true" ref="portfolio">
+    <file name="billboardsummersweet-crop-u17266.jpg" crc="4285037097" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="billboard mockup real size-crop-u13542.jpg" crc="166238240" seo="true" ref="portfolio">
@@ -539,8 +539,8 @@
       <caption webpage="portfolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="261368061" seo="true" mt="1536070883950" redirect="true"/>
-  <file name="about.html" crc="4255823863" seo="true" mt="1536070758978" redirect="true"/>
-  <file name="contact.html" crc="4151656461" seo="true" mt="1536070758978" redirect="true"/>
-  <file name="portfolio.html" crc="3969935537" seo="true" mt="1536070758978" redirect="true"/>
+  <file name="index.html" crc="453419293" seo="true" mt="1536072055078" redirect="true"/>
+  <file name="about.html" crc="3974773871" seo="true" mt="1536072055078" redirect="true"/>
+  <file name="contact.html" crc="3840598114" seo="true" mt="1536072055078" redirect="true"/>
+  <file name="portfolio.html" crc="3886491308" seo="true" mt="1536674708612" redirect="true"/>
 </manifest>

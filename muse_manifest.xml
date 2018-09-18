@@ -1,14 +1,17 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alanz.me" resolutions="1x" timestamp="1536676580019">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alanz.me" resolutions="1x" timestamp="1537274953828">
+  <folder name="assets">
+    <file name="resume-alexandra-lanz.pdf" crc="3948848803" seo="true" mt="1536549993000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3895315048"/>
-    <file name="master_a-master.css" crc="429356027" ref="portfolio:index:about:contact"/>
+    <file name="site_global.css" crc="234495993"/>
+    <file name="master_a-master.css" crc="4200931707" ref="portfolio:index:about:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="204834084" ref="portfolio:index:about:contact"/>
     <file name="portfolio.css" crc="3972183071" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="424969349" ref="portfolio"/>
     <file name="index.css" crc="3878931537" ref="index"/>
     <file name="nomq_index.css" crc="4267758003" ref="index"/>
-    <file name="about.css" crc="4101934741" ref="about"/>
-    <file name="nomq_about.css" crc="4118700561" ref="about"/>
+    <file name="about.css" crc="347320667" ref="about"/>
+    <file name="nomq_about.css" crc="4023450752" ref="about"/>
     <file name="contact.css" crc="4166976012" ref="contact"/>
     <file name="nomq_contact.css" crc="4113974028" ref="contact"/>
   </folder>
@@ -47,6 +50,14 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -54,16 +65,8 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 349982x233_poster_.png" crc="4106869023" ref="index"/>
+    <file name="pasted svg 349982x233_poster_.png" crc="4106869023" ref="index:about"/>
     <file name="pasted-svg-256x256.svg" crc="414496941" seo="true" ref="index:about:contact:portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -79,6 +82,14 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -86,16 +97,8 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 256x256_poster_.png" crc="4134346672" ref="index"/>
+    <file name="pasted svg 256x256_poster_.png" crc="4134346672" ref="index:about"/>
     <file name="pasted-svg-256x2562.svg" crc="61851811" seo="true" ref="index:about:contact:portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -111,6 +114,14 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -118,16 +129,8 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 256x256_poster_2.png" crc="298644294" ref="index"/>
+    <file name="pasted svg 256x256_poster_2.png" crc="298644294" ref="index:about"/>
     <file name="pasted-svg-256x2563.svg" crc="4197043217" seo="true" ref="index:about:contact:portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -143,6 +146,14 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -150,16 +161,8 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 256x256_poster_3.png" crc="3776487676" ref="index"/>
+    <file name="pasted svg 256x256_poster_3.png" crc="3776487676" ref="index:about"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio"/>
     <file name="jhgz9320-crop-u468.jpg" crc="244209445" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -540,7 +543,7 @@
     </file>
   </folder>
   <file name="index.html" crc="453419293" seo="true" mt="1536072055078" redirect="true"/>
-  <file name="about.html" crc="3974773871" seo="true" mt="1536072055078" redirect="true"/>
+  <file name="about.html" crc="4168493299" seo="true" mt="1537247987107" redirect="true"/>
   <file name="contact.html" crc="3840598114" seo="true" mt="1536072055078" redirect="true"/>
   <file name="portfolio.html" crc="3886491308" seo="true" mt="1536674708612" redirect="true"/>
 </manifest>

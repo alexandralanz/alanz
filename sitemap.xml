@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://alanz.me/about.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -407,5 +407,11 @@
     <image:image>
       <image:loc>http://alanz.me/images/untitled-1-crop-u15882.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://alanz.me/assets/resume-alexandra-lanz.pdf</loc>
+    <lastmod>2018-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
